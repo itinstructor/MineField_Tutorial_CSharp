@@ -1,5 +1,5 @@
 # Visual C# MineField
-A simple pong game originally written in 2011 in Java. I ported it in 2016 to Visual C# as a game tutorial for a introductory C# programming class.
+This project started from a simple pong game I wrote in 2011 in Java. I ported it in 2016 to Visual C# as a game tutorial for a introductory C# programming class.
 
 This version is built with Visual Studio Community 2019.
 
